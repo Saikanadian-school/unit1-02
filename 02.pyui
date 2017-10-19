@@ -1,0 +1,46 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{158, 299}, {105, 111}}",
+        "class" : "ImageView",
+        "attributes" : {
+          "frame" : "{{462, 334}, {100, 100}}",
+          "image_name" : "iob:arrow_swap_32",
+          "class" : "ImageView",
+          "name" : "my_image",
+          "uuid" : "952FB2BC-BBD6-47F3-8B54-2C1E581BC143"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{57, 32}, {100, 100}}",
+        "class" : "ImageView",
+        "attributes" : {
+          "frame" : "{{462, 334}, {100, 100}}",
+          "class" : "ImageView",
+          "name" : "imageview",
+          "uuid" : "5FF7E5AF-6784-4600-B00C-E56771ADD07C"
+        },
+        "selected" : true
+      }
+    ],
+    "frame" : "{{0, 0}, {1024, 768}}",
+    "class" : "View",
+    "attributes" : {
+      "name" : "",
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
